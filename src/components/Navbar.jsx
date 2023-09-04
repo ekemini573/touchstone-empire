@@ -38,7 +38,7 @@ const Navbar = () => {
       <div className='fixedNav'>
         <div className='tablet-desktop'>
           <div  className='navContent '>
-            <img src="images/lago.png" alt="" className='navImg'/>
+            <img src="images/Phre.png" alt="" className='navImg'/>
             <Nav className="fon" activeKey="/home">      
                 <Nav.Item>
                     <Nav.Link href="/home" className='navfont'>Home</Nav.Link>
