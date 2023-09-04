@@ -8,7 +8,7 @@ export default function Hero() {
     return(
       <main className='main'>
         <section className='sec1 '>
-          <h6 className='mobile heromsgs border-bottom'>TOUCHSTONE FASHION</h6>
+          <h6 className='mobile heromsgs border-bottom '>TOUCHSTONE FASHION</h6>
           <img src="images/resized.jpg" alt=""  className='heroImg'/>
           
           <img src="images/prev.png" alt="" className='mobile heropic' />
