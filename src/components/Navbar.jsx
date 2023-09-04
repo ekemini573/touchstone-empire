@@ -74,7 +74,7 @@ const Navbar = () => {
               <div className={burger_class} ></div>
             </div>
           </nav>
-          <img src="images/ph.png" alt="" className='logo'/>
+          <img src="images/Phre.png" alt="" className='logo'/>
           <div className={menu_class}>
             
             <Nav className="justify-content-center mt-5 shadow" activeKey="/home">
