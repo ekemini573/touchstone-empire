@@ -18,7 +18,7 @@ body, header, nav, main, footer, h1, div, img, ul, figure, figcaption, section, 
     display: block;
 }
 .sec1{
-    
+    padding-top: 2.9em;
     margin-bottom: 3em;
     
 }
@@ -135,17 +135,17 @@ body, header, nav, main, footer, h1, div, img, ul, figure, figcaption, section, 
     height: 0.2em;
     background-color: white;
     margin-left: 1em;
-    z-index: 2;
+    z-index: 3;
 }
 
 .menu{ 
     width: 40%;
     height:50vh;
-    background-color: black;
+    background-color: #1E0A03;
     position: absolute;
     top: 0;
     right: 0;
-    z-index: 1;
+    z-index: 2.5;
 }
 
 img{

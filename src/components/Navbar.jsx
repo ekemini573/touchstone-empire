@@ -66,15 +66,15 @@ const Navbar = () => {
           </div>
         </div>
         <div className='mobile'>
-          <div className=''>
-          <nav className='mobileNav'>
+          <div className='' >
+          <nav className='mobileNav' style={{position:'fixed', zIndex:'3'}}>
             <div className='burger-menu' onClick={updateMenu}>
               <div className={burger_class} ></div>
               <div className={burger_class} ></div>
               <div className={burger_class} ></div>
             </div>
           </nav>
-          <img src="images/Phre.png" alt="" className='logo'/>
+          <img src="images/Phre.png" alt="" className='logo' style={{position:'fixed', zIndex:'3'}}/>
           <div className={menu_class}>
             
             <Nav className="justify-content-center mt-5 shadow" activeKey="/home">
