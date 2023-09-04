@@ -26,7 +26,7 @@ body, header, nav, main, footer, h1, div, img, ul, figure, figcaption, section, 
     background-color: 	rgba(30, 10, 3, 0.9);
     color: white;
     font-family: 'Roboto Slab', serif;
-    clip-path: circle(64.3% at 50% 50%);
+    
 }
 
 .sec3{
