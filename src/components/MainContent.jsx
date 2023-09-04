@@ -9,7 +9,7 @@ export default function Hero() {
       <main className='main'>
         <section className='sec1 '>
           <h6 className='mobile heromsgs border-bottom'>TOUCHSTONE FASHION</h6>
-          <img src="images/landing.jpg" alt=""  className='heroImg'/>
+          <img src="images/resized.jpg" alt=""  className='heroImg'/>
           
           <img src="images/prev.png" alt="" className='mobile heropic' />
           {/* <img src="images/rm.png" alt="" className='tablet-desktop heropic1' /> */}
